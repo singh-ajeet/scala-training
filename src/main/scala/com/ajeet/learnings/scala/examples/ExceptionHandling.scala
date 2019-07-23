@@ -1,4 +1,4 @@
-package com.ajeet.learnings.scala.samples
+package com.ajeet.learnings.scala.examples
 
 object ExceptionHandling extends App {
 
